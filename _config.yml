@@ -7,7 +7,7 @@ pygments: false
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://fullit.github.io
+url: https://jxtsai.github.io
 baseurl: ""
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
@@ -22,13 +22,13 @@ post_limit: 5
 
 
 title : fullit 
-tagline: A responsive templeate built for jekyll3
+tagline: A blog built for jekyll3 and forestory io
 author :
-  name : fullit
+  name : jxtsai
   email : me@jxtsai.info
   github : jxtsai
   twitter : a5288
-  feedburner : fullit
+  feedburner : a5288
 
 twitter_username: a5288
 # The production_url is only used when full-domain names are needed

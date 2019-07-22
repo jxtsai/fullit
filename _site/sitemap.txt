@@ -1,18 +1,18 @@
 
-https://fullit.github.io/404
-https://fullit.github.io/about
-https://fullit.github.io/archive
-https://fullit.github.io/atom.xml
-https://fullit.github.io/blog
-https://fullit.github.io/categories
-https://fullit.github.io/
-https://fullit.github.io/landing
-https://fullit.github.io/pages
-https://fullit.github.io/rss.xml
-https://fullit.github.io/sitemap.txt
-https://fullit.github.io/tags
-https://fullit.github.io/feed.xml
+https://jxtsai.github.io/404
+https://jxtsai.github.io/about
+https://jxtsai.github.io/archive
+https://jxtsai.github.io/atom.xml
+https://jxtsai.github.io/blog
+https://jxtsai.github.io/categories
+https://jxtsai.github.io/
+https://jxtsai.github.io/landing
+https://jxtsai.github.io/pages
+https://jxtsai.github.io/rss.xml
+https://jxtsai.github.io/sitemap.txt
+https://jxtsai.github.io/tags
+https://jxtsai.github.io/feed.xml
 
-https://fullit.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing
-https://fullit.github.io/lessons/2017/02/15/syntax-highlight-example
-https://fullit.github.io/lessons/2017/01/17/testing-locally
+https://jxtsai.github.io/lessons/2017/03/20/make-your-jekyll-website-amazing
+https://jxtsai.github.io/lessons/2017/02/15/syntax-highlight-example
+https://jxtsai.github.io/lessons/2017/01/17/testing-locally

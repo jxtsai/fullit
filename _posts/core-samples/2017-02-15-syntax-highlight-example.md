@@ -6,7 +6,7 @@ tags : [jekyll, code]
 img : 1.jpg
 img2 : 2.jpg
 img3 : 3.jpg
-author : Antonio Trento
+author : jxtsai
 title2 : Ciao bello
 title3 : Ciao fantastico
 css: 

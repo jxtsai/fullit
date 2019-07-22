@@ -96,7 +96,7 @@ JB :
   comments :
     provider : disqus
     disqus : 
-      short_name : jeky-new-age
+      short_name : jxtsai-blog
     #livefyre :
     #  site_id : 
     #intensedebate :
@@ -114,7 +114,7 @@ JB :
   analytics :
     provider : google
     google :
-        tracking_id : 'UA-94080000-1'
+    #    tracking_id : 'UA-94080000-1'
    # getclicky :
    #   site_id :
    # mixpanel :
